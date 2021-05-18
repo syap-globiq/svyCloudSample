@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ASCII"?>
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="2" environment="org.eclipse.dltk.core.environment.localEnvironment">
+  <entries path="C:/Servoy_Developer/local_workspace/cloudSampleModel/datasources/example_data/order_details_calculations.js" timestamp="1621331689963" lastAccessTime="1621331690848"/>
+  <entries path="C:/Servoy_Developer/local_workspace/cloudSampleModel/datasources/example_data" timestamp="1621331689966" lastAccessTime="1621331690849">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="2838196607/630522600/1.idx"/>
+  </entries>
+</cache:CacheIndex>

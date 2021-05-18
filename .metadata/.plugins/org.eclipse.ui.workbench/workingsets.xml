@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621331638152_1" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621331638159_2" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621331690042_3" label="Servoy Active Solution" name="Servoy Active Solution">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/svyProperties" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cloudSampleSolution" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/svySecurityUX" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/svyLookup" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/svyPopupFilter" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cloudSampleSolutionLogin" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/svySecurity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/resources" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/svyUtils" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/svyNavigationUX" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/svySearch" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/svyNavigation" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/cloudSampleModel" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1621331636340_0" label="Window Working Set" name="Aggregate for window 1621331636340">
+<workingSet IMemento.internal.id="Servoy Active Solution"/>
+</workingSet>
+</workingSetManager>
